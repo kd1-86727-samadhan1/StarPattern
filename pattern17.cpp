@@ -20,7 +20,6 @@ int main()
         k = k - 2;
         for (int j = i; j >= 1; j--)
         {
-
             cout << j << " ";
         }
         cout << "\n";

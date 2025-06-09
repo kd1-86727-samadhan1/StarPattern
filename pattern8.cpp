@@ -36,6 +36,7 @@ int main3()
         }
         cout << "\n";
     }
+    return 0;
 }
 
 // 1 0 1 0 1
